@@ -13,8 +13,7 @@ public class ShoppingcartpageActions extends ShoppingcartpageRepo {
 
 	public void searchTerm(String SearchTerm){
 		
-		loosderf ;';sdl;mvklsnvkldsn vkmsd 
-		ksjhfhjfjkbekjfrbewjfbjkweb
+
 		'
 	}
 	
